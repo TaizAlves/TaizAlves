@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Logo" title="Logo" src="/static/images/siteimage.jpg" style="width:3rem"/>
+    <img alt="RoudMap" title="Logo" src="Data_Analyst__A_I_-_My_RoudMap.jpg" style="width:3rem"/>
 </h1>
 
 ### Hello, folks 💁
