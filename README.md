@@ -15,5 +15,5 @@ Every day is a new challenge, sometimes I feel more lost than ever, but that´s 
 
 You can reach me @ [LinkedIn](https://www.linkedin.com/in/taiz-alves-664a081/)
 
- - 📚 I´m currently a happy Artificial Intelligence MBA student 
+ - 📚 I´m currently a happy Artificial Intelligence´s Post Graduation student 
  - 👩‍💻 I´m working on aligning my backgroung (finance, business administration) and data science.
