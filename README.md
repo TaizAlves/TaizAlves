@@ -16,4 +16,4 @@ Every day is a new challenge, sometimes I feel more lost than ever, but that´s 
 You can reach me @ [LinkedIn](https://www.linkedin.com/in/taiz-alves-664a081/)
 
  - 📚 I´m currently a happy Artificial Intelligence´s Post Graduation student 
- - 👩‍💻 I´m working on transit to a new carrear path.
+ - 👩‍💻 I´m currently learning more about Node.js
