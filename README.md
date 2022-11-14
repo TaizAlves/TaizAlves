@@ -8,7 +8,7 @@ My name is Taiz Alves and I currently live in Belo Horizonte, Brazil but don´t 
 
 I´m a citizen of the world! 🌎
 
-It´s been only a few years that I discovered  programming, development ,data science, Machine Learning, AI and all this amazing world. 
+It´s been only a few years since I discovered  programming, development ,data science, Machine Learning, AI and all this amazing world. 
 It was not planned, I was just being curious but it got me: I could have fun and work at the same time.
 
 Every day is a new challenge, sometimes I feel more lost than ever, but that´s the game and I´m *all in*.
