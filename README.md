@@ -3,7 +3,7 @@
     <img alt="RoudMap" title="Logo" src="https://github.com/TaizAlves/TaizAlves/blob/main/My_RoudMap.png" style="width:45rem"/>
 </h1>
 
-### Hello, folks 💁
+### Hello, folks 💁🏾‍♀️
 My name is Taiz Alves and I currently live in Belo Horizonte, Brazil but don´t be surprised if you see me around.
 
 I´m a citizen of the world! 🌎
