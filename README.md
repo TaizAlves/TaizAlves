@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="RoudMap" title="Logo" src="https://github.com/TaizAlves/TaizAlves/blob/main/My_RoudMap.png" style="width:35rem"/>
+    <img alt="RoudMap" title="Logo" src="https://github.com/TaizAlves/TaizAlves/blob/main/My_RoudMap.png" style="width:45rem"/>
 </h1>
 
 ### Hello, folks 💁
