@@ -4,7 +4,7 @@
 </h1>
 
 ### Hello, folks 💁🏾‍♀️
-My name is Taiz Alves and I currently live in Belo Horizonte, Brazil but don´t be surprised if you see me around.
+My name is Taiz Alves and I currently live in Vitória, ES, Brazil but don´t be surprised if you see me around.
 
 I´m a citizen of the world! 🌎
 
